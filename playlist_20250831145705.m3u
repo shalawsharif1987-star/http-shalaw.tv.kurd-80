@@ -1,0 +1,173 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Rudaw HD" tvg-logo="News" group-title="News",Rudaw HD
+https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="K24" tvg-logo="News" group-title="News",K24
+https://d1x82nydcxndze.cloudfront.net/live/index.m3u8
+#EXTINF:-1 tvg-id="AVA" tvg-logo="News" group-title="News",AVA
+https://ava5.site/upload/images/720.m3u8
+#EXTINF:-1 tvg-id="Chanal 8" tvg-logo="News" group-title="News",Chanal 8
+https://live.channel8.com/Channel8-Kurdish/index.fmp4.m3u8
+#EXTINF:-1 tvg-id="GK HD" tvg-logo="News" group-title="News",GK HD
+https://live.host247.net/gk/gksat/chunklist_w1578718171.m3u8
+#EXTINF:-1 tvg-id="Payam" tvg-logo="News" group-title="News",Payam
+https://media2.streambrothers.com:1936/8218/8218/playlist.m3u8
+#EXTINF:-1 tvg-id="Kurdsat News" tvg-logo="News" group-title="News",Kurdsat News
+https://iko-streamline-live1.akamaized.net/KurdsatNews/master_0.m3u8
+#EXTINF:-1 tvg-id="Ktv" tvg-logo="News" group-title="News",Ktv
+https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Kurd Max" tvg-logo="Kurdish" group-title="Kurdish",Kurd Max
+https://6476e46b58f91.streamlock.net/liveTrans/SHOW1/playlist.m3u8
+#EXTINF:-1 tvg-id="Kurd max Show" tvg-logo="Kurdish" group-title="Kurdish",Kurd max Show
+https://6476e46b58f91.streamlock.net/liveTrans/SHOW1/playlist.m3u8
+#EXTINF:-1 tvg-id="Avar" tvg-logo="Kurdish" group-title="Kurdish",Avar
+https://avr.host247.net/live/AvarTv/playlist.m3u8
+#EXTINF:-1 tvg-id="Qalam" tvg-logo="Kurdish" group-title="http://d4k4u.com:80/play/live.php?mac=00:1A:79:B5:18:70&amp;stream=312553&amp;extension=ts&amp;play_token=Rqe92xu2o0",Qalam
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:B5:18:70&amp;stream=312553&amp;extension=ts&amp;play_token=Rqe92xu2o0
+#EXTINF:-1 tvg-id="Shams" tvg-logo="Kurdish" group-title="Kurdish",Shams
+https://stream.shams.tv/hls/0/stream.m3u8
+#EXTINF:-1 tvg-id="Shaista" tvg-logo="Kurdish" group-title="Kurdish",Shaista
+http://v3tv.live:80/play/live.php?mac=00:1A:79:27:82:95&amp;stream=129924&amp;extension=ts&amp;play_token=eGxN0YdCCV
+#EXTINF:-1 tvg-id="Khak" tvg-logo="Kurdish" group-title="Kurdish",Khak
+http://bblserver.ddns.net:1935/stream/khakhd/halabja88.m3u8
+#EXTINF:-1 tvg-id="Ravand" tvg-logo="Kurdish" group-title="Kurdish",Ravand
+http://ravandtv.badinan.xyz:1935/live/RAVAND-HD/playlist.m3u8
+#EXTINF:-1 tvg-id="Shna" tvg-logo="Kurdish" group-title="Kurdish",Shna
+http://shnatv.ddns.net:1935/live/shnatv/chunklist_w2109035218.m3u8
+#EXTINF:-1 tvg-id="Mix Kurdi" tvg-logo="Kurdish" group-title="Kurdish",Mix Kurdi
+http://avrstream.com:1935/live/Mix-kurdy/chunklist_w524479471.m3u8
+#EXTINF:-1 tvg-id="Babuli" tvg-logo="Kurdish" group-title="Kurdish",Babuli
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:AA:75:04&amp;stream=572996&amp;extension=ts&amp;play_token=s0AAvdHJmG
+#EXTINF:-1 tvg-id="Barnamay Barnama" tvg-logo="Kurdish" group-title="Kurdish",Barnamay Barnama
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:AA:75:04&amp;stream=572993&amp;extension=ts&amp;play_token=ZnbEpHY3al
+#EXTINF:-1 tvg-id="Binar" tvg-logo="Kurdish" group-title="Kurdish",Binar
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:AA:75:04&amp;stream=572991&amp;extension=ts&amp;play_token=AW4H8ltELp
+#EXTINF:-1 tvg-id="Slemani" tvg-logo="Kurdish" group-title="Kurdish",Slemani
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:AA:75:04&amp;stream=572977&amp;extension=ts&amp;play_token=VdzIm4kYEy
+#EXTINF:-1 tvg-id="Dhok" tvg-logo="Kurdish" group-title="Kurdish",Dhok
+http://duhok.badinan.xyz:1935/live/DuhokTV/playlist.m3u8
+#EXTINF:-1 tvg-id="Ravand" tvg-logo="Kurdish" group-title="Kurdish",Ravand
+http://ravandtv.badinan.xyz:1935/live/RAVAND-HD/playlist.m3u8
+#EXTINF:-1 tvg-id="WAR" tvg-logo="Kurdish" group-title="Kurdish",WAR
+https://live.kwikmotion.com/waarmedialive/waarmedia.smil/waarmediapublish/waarmedia_source/chunks.m3u8
+#EXTINF:-1 tvg-id="Soran" tvg-logo="Kurdish" group-title="Kurdish",Soran
+http://avrstream.com:1935/live/SoranEntertainment/playlist.m3u8
+#EXTINF:-1 tvg-id="Aryen" tvg-logo="Kurdish" group-title="Kurdish",Aryen
+https://aryen.tv/live/tv/chunklist_w1758839041.m3u8
+#EXTINF:-1 tvg-id="Qalat" tvg-logo="Kurdish" group-title="Kurdish",Qalat
+http://213.32.255.86:1935/live/Qellat_tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Bnar" tvg-logo="Kurdish" group-title="Kurdish",Bnar
+http://baskhd.ddns.net:40/live/bnar4k/playlist.m3u8
+#EXTINF:-1 tvg-id="Gawhar" tvg-logo="Kurdish" group-title="Kurdish",Gawhar
+https://shawkat-zebari.short.gy/Gewher.m3u8
+#EXTINF:-1 tvg-id="K Chanal" tvg-logo="Kurdish" group-title="Kurdish",K Chanal
+https://iko-live.akamaized.net/kurdhd/master.m3u8
+#EXTINF:-1 tvg-id="Nr1" tvg-logo="Kurdish" group-title="Kurdish",Nr1
+http://142.132.133.190:1935/live/NR1_KURD/playlist.m3u8
+#EXTINF:-1 tvg-id="TRT Kurdi" tvg-logo="Kurdish" group-title="Kurdish",TRT Kurdi
+https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="Euro Kurd" tvg-logo="Kurdish" group-title="Kurdish",Euro Kurd
+http://eurokurd.mymediapc.net:40/live/Eurokurd/playlist.m3u8
+#EXTINF:-1 tvg-id="Chira" tvg-logo="Kurdish" group-title="Kurdish",Chira
+https://cira-tv.akamaized.net/hls/stream_0.m3u8
+#EXTINF:-1 tvg-id="Zagros" tvg-logo="Kurdish" group-title="Kurdish",Zagros
+https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Rang D" tvg-logo="Dicomentary" group-title="Dicomentary",Rang D
+http://new.tryv24.shop:80/Nboxtv_857858/KsAKkuKx/129916
+#EXTINF:-1 tvg-id="Sima D" tvg-logo="Dicomentary" group-title="Dicomentary",Sima D
+http://new.tryv24.shop:80/Nboxtv_857858/KsAKkuKx/280449
+#EXTINF:-1 tvg-id="Astera D" tvg-logo="Dicomentary" group-title="Dicomentary",Astera D
+http://new.tryv24.shop:80/Nboxtv_857858/KsAKkuKx/280457
+#EXTINF:-1 tvg-id="MMN D" tvg-logo="Dicomentary" group-title="Dicomentary",MMN D
+http://mmn.mypsx.net:1935/live/mmnhddocumentary/playlist.m3u8
+#EXTINF:-1 tvg-id="National G" tvg-logo="Dicomentary" group-title="Dicomentary",National G
+https://vo-live.cdb.cdn.orange.com/Content/Channel/NationalGeographicHDChannel/HLS/index.m3u8
+#EXTINF:-1 tvg-id="Love Nature" tvg-logo="Dicomentary" group-title="Dicomentary",Love Nature
+https://aegis-cloudfront-1.tubi.video/dc8bda97-ce9e-4091-b4e8-11254dea4da6/480p-cc/index.m3u8
+#EXTINF:-1 tvg-id="National G Wild" tvg-logo="Dicomentary" group-title="Dicomentary",National G Wild
+https://wildearth-plex.amagi.tv/masterR1080p.m3u8
+#EXTINF:-1 tvg-id="Barin Moveis" tvg-logo="Moveis" group-title="Moveis",Barin Moveis
+http://baskhd.ddns.net:40/live//barinmovieSHD/mono.m3u8
+#EXTINF:-1 tvg-id="Bnar Moveis" tvg-logo="Moveis" group-title="Moveis",Bnar Moveis
+http://baskhd.ddns.net:40/live//bnarmovies/.bnartvhdsestmok.m3u8
+#EXTINF:-1 tvg-id="Astera Moveis" tvg-logo="Moveis" group-title="Moveis",Astera Moveis
+http://new.tryv24.shop:80/Nboxtv_857858/KsAKkuKx/280459
+#EXTINF:-1 tvg-id="Niga Moveis" tvg-logo="Moveis" group-title="Moveis",Niga Moveis
+http://new.tryv24.shop:80/Nboxtv_857858/KsAKkuKx/129908
+#EXTINF:-1 tvg-id="Newline Moveis" tvg-logo="Moveis" group-title="Moveis",Newline Moveis
+http://new.tryv24.shop:80/Nboxtv_857858/KsAKkuKx/312650
+#EXTINF:-1 tvg-id="MMN Moveis" tvg-logo="Moveis" group-title="Moveis",MMN Moveis
+http://mmn.mypsx.net:1935/live/mmnhdmovies/chunklist.m3u8
+#EXTINF:-1 tvg-id="Kurd Moveis 1" tvg-logo="Moveis" group-title="Moveis",Kurd Moveis 1
+http://new.tryv24.shop:80/Nboxtv_857858/KsAKkuKx/312621
+#EXTINF:-1 tvg-id="Kurd Moveis 2" tvg-logo="Moveis" group-title="Moveis",Kurd Moveis 2
+http://new.tryv24.shop:80/Nboxtv_857858/KsAKkuKx/312622
+#EXTINF:-1 tvg-id="Afarin Baxcha" tvg-logo="Kids" group-title="Kids",Afarin Baxcha
+http://new.tryv24.shop:80/Nboxtv_857858/KsAKkuKx/312558
+#EXTINF:-1 tvg-id="Afarin" tvg-logo="Kids" group-title="Kids",Afarin
+http://new.tryv24.shop:80/Nboxtv_857858/KsAKkuKx/312577
+#EXTINF:-1 tvg-id="Dasinya" tvg-logo="Kids" group-title="Kids",Dasinya
+http://new.tryv24.shop:80/Nboxtv_857858/KsAKkuKx/312577
+#EXTINF:-1 tvg-id="Astera Baby" tvg-logo="Kids" group-title="Kids",Astera Baby
+http://new.tryv24.shop:80/Nboxtv_857858/KsAKkuKx/280456
+#EXTINF:-1 tvg-id="Shakrok Kids" tvg-logo="Kids" group-title="Kids",Shakrok Kids
+http://new.tryv24.shop:80/Nboxtv_857858/KsAKkuKx/312685
+#EXTINF:-1 tvg-id="New Max Kids" tvg-logo="Kids" group-title="Kids",New Max Kids
+http://new.tryv24.shop:80/Nboxtv_857858/KsAKkuKx/312652
+#EXTINF:-1 tvg-id="MMN Kids" tvg-logo="Kids" group-title="Kids",MMN Kids
+http://new.tryv24.shop:80/Nboxtv_857858/KsAKkuKx/312643
+#EXTINF:-1 tvg-id="Naga Kids" tvg-logo="Kids" group-title="Kids",Naga Kids
+http://new.tryv24.shop:80/Nboxtv_857858/KsAKkuKx/312657
+#EXTINF:-1 tvg-id="Newline Kids" tvg-logo="Kids" group-title="Kids",Newline Kids
+http://new.tryv24.shop:80/Nboxtv_857858/KsAKkuKx/312649
+#EXTINF:-1 tvg-id="Jojo Mama" tvg-logo="Kids" group-title="Kids",Jojo Mama
+http://new.tryv24.shop:80/Nboxtv_857858/KsAKkuKx/129849
+#EXTINF:-1 tvg-id="NRT 3" tvg-logo="Kids" group-title="Kids",NRT 3
+http://new.tryv24.shop:80/Nboxtv_857858/KsAKkuKx/280416
+#EXTINF:-1 tvg-id="Nr1 Kids" tvg-logo="Kids" group-title="Kids",Nr1 Kids
+http://142.132.133.190:1935/live/NR1_HD/playlist.m3u8
+#EXTINF:-1 tvg-id="Baby Shark" tvg-logo="Kids" group-title="Kids",Baby Shark
+https://newidco-babysharktv-1-us.roku.wurl.tv/4300.m3u8
+#EXTINF:-1 tvg-id="Kidco" tvg-logo="Kids" group-title="Kids",Kidco
+http://avrstream.com:1935/live/kidcohd/chunklist_w1629791731.m3u8
+#EXTINF:-1 tvg-id="atv" tvg-logo="Turk" group-title="Turk",atv
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
+#EXTINF:-1 tvg-id="Show tv" tvg-logo="Turk" group-title="Turk",Show tv
+https://ciner-live.daioncdn.net/showtv/showtv.m3u8
+#EXTINF:-1 tvg-id="Star" tvg-logo="Turk" group-title="Turk",Star
+https://dogus-live.daioncdn.net/startv/startv.m3u8
+#EXTINF:-1 tvg-id="Kanal D" tvg-logo="Turk" group-title="Turk",Kanal D
+https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
+#EXTINF:-1 tvg-id="Kral" tvg-logo="Turk" group-title="Turk",Kral
+https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8
+#EXTINF:-1 tvg-id="Tv8" tvg-logo="Turk" group-title="Turk",Tv8
+https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&amp;ce=3
+#EXTINF:-1 tvg-id="Real Madrid" tvg-logo="Sport" group-title="Sport",Real Madrid
+https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
+#EXTINF:-1 tvg-id="Nrt Sport" tvg-logo="Sport" group-title="Sport",Nrt Sport
+http://blue4k.xyz:8080/live/05070793386/6750b02cea052/531812.m3u8
+#EXTINF:-1 tvg-id="Ava Sport" tvg-logo="Sport" group-title="Sport",Ava Sport
+http://blue4k.xyz:8080/live/05070793386/6750b02cea052/531814.m3u8
+#EXTINF:-1 tvg-id="Astera Sport" tvg-logo="Sport" group-title="http://blue4k.xyz:8080/live/05070793386/6750b02cea052/531817.m3u8",Astera Sport
+http://blue4k.xyz:8080/live/05070793386/6750b02cea052/531817.m3u8
+#EXTINF:-1 tvg-id="Bein News" tvg-logo="Sport" group-title="Sport",Bein News
+http://sansat.cc:88/live/02028425410074/ZUSTRUMM230NX8G/290371.m3u8
+#EXTINF:-1 tvg-id="Bein HD" tvg-logo="Sport" group-title="Sport",Bein HD
+http://sansat.cc:88/live/02028425410074/ZUSTRUMM230NX8G/667032.m3u8
+#EXTINF:-1 tvg-id="Bein 1" tvg-logo="Sport" group-title="Sport",Bein 1
+http://sansat.cc:88/live/02028425410074/ZUSTRUMM230NX8G/60954.m3u8
+#EXTINF:-1 tvg-id="Bein 2" tvg-logo="Sport" group-title="Sport",Bein 2
+http://sansat.cc:88/live/02028425410074/ZUSTRUMM230NX8G/60955.m3u8
+#EXTINF:-1 tvg-id="Bein 3" tvg-logo="Sport" group-title="Sport",Bein 3
+http://sansat.cc:88/live/02028425410074/ZUSTRUMM230NX8G/60956.m3u8
+#EXTINF:-1 tvg-id="Bein 4" tvg-logo="Sport" group-title="Sport",Bein 4
+http://sansat.cc:88/live/02028425410074/ZUSTRUMM230NX8G/5231.m3u8
+#EXTINF:-1 tvg-id="Bein 5" tvg-logo="Sport" group-title="Sport",Bein 5
+http://sansat.cc:88/live/02028425410074/ZUSTRUMM230NX8G/576497.m3u8
+#EXTINF:-1 tvg-id="Bein 6" tvg-logo="Sport" group-title="Sport",Bein 6
+http://sansat.cc:88/live/02028425410074/ZUSTRUMM230NX8G/5233.m3u8
+#EXTINF:-1 tvg-id="Bein 7" tvg-logo="Sport" group-title="Sport",Bein 7
+http://sansat.cc:88/live/02028425410074/ZUSTRUMM230NX8G/5235.m3u8
+#EXTINF:-1 tvg-id="Bein 8" tvg-logo="Sport" group-title="Sport",Bein 8
+http://sansat.cc:88/live/02028425410074/ZUSTRUMM230NX8G/5237.m3u8
+#EXTINF:-1 tvg-id="Bein 9" tvg-logo="Sport" group-title="Sport",Bein 9
+http://sansat.cc:88/live/02028425410074/ZUSTRUMM230NX8G/5239.m3u8
